@@ -7,7 +7,7 @@ Mit navn er Ahmed-Deeq Abdi, og jeg er en 21-årig Software Teknologi studerende
 På min profil kan du dykke ned i projekter, jeg har udviklet i løbet af min uddannelse, såsom:
 
 - En Asteroids-klon, hvor jeg udforskede komponent-baseret udvikling.
-- Et storing- og assembly system, bygget med MQTT, SOAP og REST.
+- Et film bibliotek, hvor fokus var på MVC programmering vha. Laravel
 - Finansiel navigations-app bygget med mikroservices arkitektur for optimal skalerbarhed.
 
 

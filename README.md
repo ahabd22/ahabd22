@@ -32,4 +32,4 @@ På min profil kan du dykke ned i projekter, jeg har udviklet i løbet af min ud
 
 ### 📫 Kontakt mig:
 
-🔗 LinkedIn | ✉️ 1ahmed.deeq@gmail.com
+[🔗 LinkedIn](https://www.linkedin.com/in/ahmed-deeq-a-815508243/) | ✉️ 1ahmed.deeq@gmail.com

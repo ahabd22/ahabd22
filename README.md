@@ -1,4 +1,5 @@
-👋 Velkommen til min GitHub-profil!
+### 👋 Velkommen til min GitHub-profil!
+
 Hej! Mit navn er Ahmed-Deeq Abdi, og jeg er en 21-årig Software Teknologi studerende på SDU, hvor jeg er ved at afslutte mit 6. semester. Jeg brænder for teknologi, innovation og at løse komplekse problemer med kreative løsninger.
 
 På min profil kan du dykke ned i projekter, jeg har udviklet i løbet af min uddannelse, såsom:

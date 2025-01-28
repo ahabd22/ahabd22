@@ -1,12 +1,13 @@
 ### 👋 Velkommen til min GitHub-profil!
 
-Hej! Mit navn er Ahmed-Deeq Abdi, og jeg er en 21-årig Software Teknologi studerende på SDU, hvor jeg er ved at afslutte mit 6. semester. Jeg brænder for teknologi, innovation og at løse komplekse problemer med kreative løsninger.
+Hej! 
+Mit navn er Ahmed-Deeq Abdi, og jeg er en 21-årig Software Teknologi studerende på SDU, hvor jeg er ved at afslutte mit 6. semester. Jeg brænder for teknologi, innovation og at løse komplekse problemer med kreative løsninger.
 
 På min profil kan du dykke ned i projekter, jeg har udviklet i løbet af min uddannelse, såsom:
 
 - En Asteroids-klon, hvor jeg udforskede komponent-baseret udvikling.
 - Et storing- og assembly system, bygget med MQTT, SOAP og REST.
-- Et spændende projekt med urban planlægning, der styrker rejseoplevelsen for Movia og DSB.
+- Finansiel navigations-app bygget med mikroservices arkitektur for optimal skalerbarhed.
 
 ### 🎯 Hvad motiverer mig?
 
@@ -32,4 +33,4 @@ At kombinere teknisk know-how med kreative ideer for at skabe software, der gør
 
 ### 📫 Kontakt mig:
 
-🔗 LinkedIn | ✉️ [Din Email Her]
+🔗 LinkedIn | ✉️ 1ahmed.deeq@gmail.com
